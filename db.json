@@ -25,7 +25,9 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {"name": "shafie", "age":25 },
+    {"name": "smile", "age":27 },
+    {"name": "babu", "age":29 }
+  ]
 }
