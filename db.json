@@ -1,6 +1,7 @@
 {
 "post" : [
-{"id": 1, "title": "post 1"},
-{"id": 2, "title": "post 1"}
+{"id": 1, "name": "post 1", "age": 31},
+{"id": 2, "name": "post 2", "age": 21},
+  {"id": 3, "name": "post 3", "age": 41}
 ]
 }
