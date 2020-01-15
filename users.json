@@ -1,28 +1,38 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "name": "shafie",
+      "email": "demo@gmail.com"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "name": "shafie1",
+      "email": "demo@gmail1.com"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "name": "shafie2",
+      "email": "demo@gmail2.com"
     }
   ],
   "comments": [
     {
       "id": 1,
       "body": "some comment",
-      "postId": 1
+      "postId": 1,
+      "name": "shafie3",
+      "email": "demo@gmail3.com"
     },
     {
       "id": 2,
       "body": "some comment",
-      "postId": 1
+      "postId": 1,
+      "name": "shafie4",
+      "email": "demo@gmail4.com"
     }
   ],
   "profile": [
