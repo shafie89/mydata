@@ -18,38 +18,5 @@
       "name": "shafie2",
       "email": "demo@gmail2.com"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1,
-      "name": "shafie3",
-      "email": "demo@gmail3.com"
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1,
-      "name": "shafie4",
-      "email": "demo@gmail4.com"
-    }
-  ],
-  "profile": [
-    {
-      "id": 1,
-      "name": "shafie", 
-     "age": 25 
-    },
-    {
-      "id": 2,
-      "name": "smile", 
-      "age": 27 
-    },
-    {
-      "id": 3,
-      "name": "babu", 
-      "age": 29 
-    }
   ]
 }
